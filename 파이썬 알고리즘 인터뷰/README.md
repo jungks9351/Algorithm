@@ -49,3 +49,11 @@
 
 </br>
 </br>
+### 8장 연결 리스트
+</br>
+
+| 문제                      | 풀이                                                                                                                                                                                                                                                                                                            |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 13. 팰린드롬 연결 리스트  | [palindrome-linked-list.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/8%EC%9E%A5%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/13.palindrome-linked-list.py) |
+| 14. 두 정렬 리스트의 병합 | [merge-two-sorted-lists.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/8%EC%9E%A5%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/14.merge-two-sorted.py)       |
+| 15. 역순 연결 리스트      | [reverse-linked-list](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/8%EC%9E%A5%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/15.reverse-linked-list.py)          |
