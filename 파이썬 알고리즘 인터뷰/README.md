@@ -32,7 +32,7 @@
 ---
 
 </br>
-</br>
+
 ### 7장 배열
 </br>
 
@@ -46,9 +46,8 @@
 | 12. 주식을 사고팔기 가장 좋은 시점 | [best-time-to-buy-and-sell-stock.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/7%EC%9E%A5%20%EB%B0%B0%EC%97%B4/12.best-time-to-buy-and-sell-stock.py) |
 
 ---
+</br>
 
-</br>
-</br>
 ### 8장 연결 리스트
 </br>
 
