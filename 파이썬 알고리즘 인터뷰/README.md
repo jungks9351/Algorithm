@@ -34,6 +34,7 @@
 </br>
 
 ### 7장 배열
+
 </br>
 
 | 문제                               | 풀이                                                                                                                                                                                                                                                                                                |
@@ -46,9 +47,11 @@
 | 12. 주식을 사고팔기 가장 좋은 시점 | [best-time-to-buy-and-sell-stock.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/7%EC%9E%A5%20%EB%B0%B0%EC%97%B4/12.best-time-to-buy-and-sell-stock.py) |
 
 ---
+
 </br>
 
 ### 8장 연결 리스트
+
 </br>
 
 | 문제                      | 풀이                                                                                                                                                                                                                                                                                                            |
@@ -56,3 +59,75 @@
 | 13. 팰린드롬 연결 리스트  | [palindrome-linked-list.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/8%EC%9E%A5%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/13.palindrome-linked-list.py) |
 | 14. 두 정렬 리스트의 병합 | [merge-two-sorted-lists.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/8%EC%9E%A5%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/14.merge-two-sorted.py)       |
 | 15. 역순 연결 리스트      | [reverse-linked-list](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/8%EC%9E%A5%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/15.reverse-linked-list.py)          |
+
+---
+
+</br>
+
+### 9장 스택, 큐
+
+</br>
+
+| 문제                      | 풀이                                                                                                                                                                                                                                                                                                       |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21. 중복 문자 제거        | [remove-duplicate-letters.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9%EC%9E%A5%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/21.remove-duplicate-letters.py)       |
+| 22. 일일 온도             | [daily-temperature.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9%EC%9E%A5%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/22.daily-temperature.py)                     |
+| 24. 스택을 이용한 큐 구현 | [implement-queue-using-stack.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9%EC%9E%A5%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/24.implement-queue-using-stack.py) |
+| 25. 원형 큐 디자인        | [design-circular-queue.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9%EC%9E%A5%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/25.design-circular-queue.py)             |
+
+---
+
+</br>
+
+### 11장 해시 테이블
+
+</br>
+
+| 문제                                   | 풀이                                                                                                                                                                                                                                                                                                                                                             |
+| :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29. 보석과 돌                          | [jewels-and-stones.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/11%EC%9E%A5%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94/29.jewels-and-stones.py)                                                           |
+| 30. 중복 문자 없는 가장 긴 부분 문자열 | [longest-substring-without-repeating-characters.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/11%EC%9E%A5%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94/30.longest-substring-without-repeating-characters.py) |
+| 31. 상위 k 빈도 요소                   | [top-k-frequent-elements.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/11%EC%9E%A5%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94/31.top-k-frequent-elements.py)                                               |
+
+---
+
+</br>
+
+### 12장 그래프
+
+</br>
+
+| 문제                    | 풀이                                                                                                                                                                                                                                                                                                                    |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 33. 전화 번호 문자 조합 | [letter-combination-of-a-phone-number.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12%EC%9E%A5%20%EA%B7%B8%EB%9E%98%ED%94%84/33.letter-combination-of-a-phone-number.py) |
+| 34. 순열                | [permutations.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12%EC%9E%A5%20%EA%B7%B8%EB%9E%98%ED%94%84/34.permutations.py)                                                 |
+| 35. 조합                | [combinations.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12%EC%9E%A5%20%EA%B7%B8%EB%9E%98%ED%94%84/35.combinations.py)                                                 |
+
+---
+
+</br>
+
+### 14장 이진 트리
+
+</br>
+
+| 문제                            | 풀이                                                                                                                                                                                                                                                                                                                                  |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 43. 이진 트리의 직셩            | [diameter-of-binary-tree.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC/43.diameter-of-binary-tree.py)                             |
+| 44. 가장 긴 동일 값의 경로      | [longest-univalue-path.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC/44.longest-univalue-path.py)                                 |
+| 45. 이진 트리 반전              | [invert-binary-tree.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC/45.invert-binary-tree.py)                                       |
+| 47. 이진 트리 직렬화 & 역직렬화 | [serialize-and-deserialize-binary-tree.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC/47.serialize-and-deserialize-binary-tree.py) |
+| 48. 균형 이진 트리              | [balanced-binary-tree.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC/48.balanced-binary-tree.py)                                   |
+| 49. 최소 높이 트리              | [minimum-height-trees.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/14%EC%9E%A5%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC/49.minimum-height-trees.py)                                   |
+
+---
+
+</br>
+
+### 15장 힙
+
+</br>
+
+| 문제                  | 풀이                                                                                                                                                                                                                                                                                        |
+| :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 55. 배열의 k번째 요소 | [kth-largest-element-in-an-array.py](https://github.com/jungks9351/Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%84%B0%EB%B7%B0/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15%EC%9E%A5%20%ED%9E%99/55.kth-largest-element-in-an-array.py) |
