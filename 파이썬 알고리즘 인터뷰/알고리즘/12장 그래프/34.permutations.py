@@ -40,3 +40,4 @@ def solve2(nums:List[int]) -> List[List[int]]:
 print(solve2(nums))
 
 
+
