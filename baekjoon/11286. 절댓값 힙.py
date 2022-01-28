@@ -1,4 +1,5 @@
 import sys
+import heapq
 
 sys.stdin = open('input.text')
 
